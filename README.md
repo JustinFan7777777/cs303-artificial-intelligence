@@ -1,6 +1,6 @@
 # CS303 Artificial Intelligence
 
-SUSTech · Fall 2026 · 人工智能
+SUSTech · Fall 2026
 
 Classical AI: graph search, adversarial game AI (minimax + α-β), CSP, logic, decision trees, clustering, ML basics.
 
