@@ -21,3 +21,5 @@ venv/
 # Datasets — keep out of GitHub, note them in README instead
 data/
 datasets/
+
+/practice10/creditcard.csv
